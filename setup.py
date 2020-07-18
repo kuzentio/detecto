@@ -15,10 +15,10 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
         'matplotlib',
-        'opencv-python',
+#        'opencv-python',
         'pandas',
-        'torch',
-        'torchvision',
+#        'torch',
+#        'torchvision',
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
